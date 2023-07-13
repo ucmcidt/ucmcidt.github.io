@@ -218,7 +218,7 @@ function _typeof(obj) { "@babel/helpers - typeof"; return _typeof = "function" =
     }
   });
 
-  // ns-hugo:C:\Users\anton\ownCloud\Others\netmob_website_2\netmob_website\assets\js\modules\_mobileMenu.js
+  // ns-hugo:C:\Users\anton\ownCloud\Others\netmob_website_2\cidt\assets\js\modules\_mobileMenu.js
   var MobileMenu = /*#__PURE__*/function () {
     function MobileMenu() {
       _classCallCheck(this, MobileMenu);
