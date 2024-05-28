@@ -2,19 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ucmcidt.github.io/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://ucmcidt.github.io/en/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="https://ucmcidt.github.io/categories/"
-                />
-  </url><url>
-    <loc>https://ucmcidt.github.io/</loc>
+    <loc>https://ucmcidt.github.io/es/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -23,10 +11,46 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://ucmcidt.github.io/"
+                href="https://ucmcidt.github.io/es/"
                 />
   </url><url>
-    <loc>https://ucmcidt.github.io/tags/</loc>
+    <loc>https://ucmcidt.github.io/es/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ucmcidt.github.io/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://ucmcidt.github.io/es/categories/"
+                />
+  </url><url>
+    <loc>https://ucmcidt.github.io/2024/es/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ucmcidt.github.io/2024/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://ucmcidt.github.io/2024/es/"
+                />
+  </url><url>
+    <loc>https://ucmcidt.github.io/2025/es/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ucmcidt.github.io/2025/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://ucmcidt.github.io/2025/es/"
+                />
+  </url><url>
+    <loc>https://ucmcidt.github.io/es/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -35,7 +59,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://ucmcidt.github.io/tags/"
+                href="https://ucmcidt.github.io/es/tags/"
                 />
   </url>
 </urlset>
