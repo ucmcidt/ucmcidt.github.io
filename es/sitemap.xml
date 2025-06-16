@@ -50,6 +50,18 @@
                 href="https://ucmcidt.github.io/2025/es/"
                 />
   </url><url>
+    <loc>https://ucmcidt.github.io/2026/es/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://ucmcidt.github.io/2026/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://ucmcidt.github.io/2026/es/"
+                />
+  </url><url>
     <loc>https://ucmcidt.github.io/es/tags/</loc>
     <xhtml:link
                 rel="alternate"

@@ -218,7 +218,7 @@ function _typeof(obj) { "@babel/helpers - typeof"; return _typeof = "function" =
     }
   });
 
-  // ns-hugo:C:\Users\anton\ownCloud\Others\UCMCIDT_webpage\cidt\assets\js\modules\_mobileMenu.js
+  // ns-hugo:/home/marque2/repos/cidt/assets/js/modules/_mobileMenu.js
   var MobileMenu = /*#__PURE__*/function () {
     function MobileMenu() {
       _classCallCheck(this, MobileMenu);
